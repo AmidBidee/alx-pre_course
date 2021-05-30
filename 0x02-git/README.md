@@ -1,2 +1,2 @@
 
-ALX 0x02-git directory
+## ALX 0x02-git project directory
